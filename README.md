@@ -9,4 +9,5 @@ https://github.com/ibercode/angular-aws-cicd/blob/main/buildspec.yml
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteAccessPermissionsReqd.html
 
-
+## Youtube Video link
+https://www.youtube.com/watch?v=eTfU52ij3qg
